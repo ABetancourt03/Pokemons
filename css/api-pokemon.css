@@ -1,12 +1,13 @@
 html {
   text-align: center;
   font-family: sans-serif;
+  color-scheme: dark;
 }
 
 .links a {
   text-decoration: none;
-  color: black;
-  border-bottom: thin solid black;
+  color: CanvasText;
+  border-bottom: thin solid CanvasText;
 }
 
 .grid-fluid {
